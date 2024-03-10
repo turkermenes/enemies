@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EnemiesES:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EnemiesESv0_1_jar</output-path>
+    <root id="archive" name="EnemiesES.jar">
+      <element id="module-output" name="EnemiesES" />
+    </root>
+  </artifact>
+</component>
